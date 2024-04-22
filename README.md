@@ -1,0 +1,1 @@
+follow along as i replicate a bunch of diffusion models I find on github and in papers
